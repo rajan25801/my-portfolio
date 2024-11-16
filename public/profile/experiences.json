@@ -1,0 +1,22 @@
+{
+    "experiences": [
+        {
+            "title": "Technical Lead",
+            "subtitle": "OWASP KARE",
+            "workType": "Full-time",
+            "workDescription": [
+                "**Technology** **Leadership**"
+            ],
+            "dateText": "06/2023 – 2024"
+        },
+        {
+            "title": "Summer Intern",
+            "subtitle": "Phemesoft Private Ltd",
+            "workType": "Internship",
+            "workDescription": [
+                "Worked on Intrusion Detection System."
+            ],
+            "dateText": "03/2024 – 03/2024"
+        }
+    ]
+}

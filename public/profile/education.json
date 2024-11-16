@@ -1,0 +1,25 @@
+{
+    "education":[
+        {
+            "title": "Jun 2021 - Jun 2025",
+            "cardTitle": "B.Tech, Computer Science and Engineering",
+            "cardSubtitle":"Kalasalingam Academy of Research and Education, Tamil Nadu",
+            "cardDetailedText": "CGPA - 7.91",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Apr 2021",
+            "cardTitle": "HSC",
+            "cardSubtitle":"TNB College, Bhagalpur, Bihar",
+            "cardDetailedText": ""
+        },
+        {
+            "title": "Apr 2019",
+            "cardTitle": "SSC",
+            "cardSubtitle":"Patliputra Central school, Parbatta, Bihar",
+            "cardDetailedText": ""
+        }
+    ]
+}
