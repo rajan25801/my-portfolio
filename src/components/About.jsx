@@ -48,7 +48,7 @@ function About({ header }) {
       })
       .then((res) => setData(res))
       .catch((err) => {
-        console.error('Failed to fetch about data:', err);
+        // console.error('Failed to fetch about data:', err);
         setError(err.message);
       });
   }, []);

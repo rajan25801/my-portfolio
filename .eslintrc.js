@@ -3,6 +3,7 @@ module.exports = {
     browser: true,
     es2021: true,
   },
+  
   extends: [
     'plugin:react/recommended',
     'airbnb',
@@ -20,6 +21,7 @@ module.exports = {
   rules: {
     'prefer-template': 0,
     'react/no-children-prop': [0],
-    'linebreak-style': 0
+    'linebreak-style': 0,
+    'no-console': 'off',  // This disables the "no-console" rule globally
   },
 };
